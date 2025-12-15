@@ -1,8 +1,12 @@
 ﻿# RL Project (Fall 2025)
 
 This repository contains the reproduction and improvement of the research paper referenced in this project.
-1/- Link to Literature Review sheet: https://docs.google.com/spreadsheets/d/1MJKGOiEjzTVWr27Dw6_jF2pGBqaOOKtQ/edit?gid=666242794#gid=666242794 , to access please use NU ID. 
-2/- Link to Video explaining the code and project paper: https://drive.google.com/file/d/1u4nntcI_7yZOcHoN62gkvstyMhPg1DNR/view?usp=drive_link
+
+Links: (use NU-ID to access these)
+* Link to Literature Review sheet: https://docs.google.com/spreadsheets/d/1MJKGOiEjzTVWr27Dw6_jF2pGBqaOOKtQ/edit?gid=666242794#gid=666242794
+* Link to Video explaining the code and project paper: https://drive.google.com/file/d/1u4nntcI_7yZOcHoN62gkvstyMhPg1DNR/view?usp=drive_link
+
+
 
 ## Repository Contents
 
@@ -33,4 +37,5 @@ This document contains the **first deliverable (Task 1)** of the course project:
 
 
 This is the base paper we chose for our project called "Dynamic Retail Pricing via Q-Learning- A Reinforcement Learning Framework for Enhanced Revenue Management".
+
 
